@@ -70,6 +70,4 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devya8049/Devya8049/output/github-contribution-grid-snake.svg" />
-</p>
+![snake animation](https://github.com/Devya8049/Devya8049/blob/output/github-contribution-grid-snake.svg)
